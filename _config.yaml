@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: hec5351
-subtitle: 
+title: Pollen Differences Across Time and Space
+subtitle: Haley Curtis Final Project FA2026
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@hec5351.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: hec5351
-  twitter: hec5351
-  youtube: hec5351
+  email: hec5351@psu.edu
 
 ### jekyll settings
 
