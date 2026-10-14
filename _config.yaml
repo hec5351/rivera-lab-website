@@ -1,10 +1,14 @@
 # site properties and page defaults
-title: Pollen Differences Across Time and Space
-subtitle: Haley Curtis Final Project FA2026
-description: Honey bee and bumble bee pollen by habitat and time.
+title: Rivera Lab
+subtitle: at Example University
+description: The Rivera Lab studies how reproducible workflows speed up ecological research.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+
+# site social media and other links
+links:
+  email: contact@example.com
 
 # site social media and other links
 links:
